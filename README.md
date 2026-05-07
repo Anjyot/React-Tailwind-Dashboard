@@ -1,67 +1,45 @@
-# Legitsoft Admin Dashboard
+# ⭐ React + Tailwind Dashboard
 
-A premium, production-ready React + Tailwind CSS admin dashboard for Legitsoft — a software development and digital solutions company.
-
-## 🚀 Getting Started
-
-```bash
-npm install
-npm start
-```
-
-The app runs at [http://localhost:3000](http://localhost:3000)
-
-## ✨ Features
-
-- **Light / Dark mode** toggle
-- **Collapsible sidebar** with smooth animation
-- **Stats cards** with trend indicators
-- **Revenue area chart** (Recharts)
-- **Projects bar chart** (Recharts)
-- **Service mix donut chart**
-- **Projects table** with search, filter, and status badges
-- **Activity feed** panel
-- **Responsive** — mobile, tablet, desktop
-- **Sticky navbar** with notifications dropdown and profile menu
-
-## 🗂️ Project Structure
-
-```
-src/
-  components/
-    Sidebar.jsx
-    Navbar.jsx
-    StatsCards.jsx
-    ProjectsTable.jsx
-    ActivityFeed.jsx
-    ServiceDonut.jsx
-  pages/
-    Dashboard.jsx
-    OtherPages.jsx
-  charts/
-    RevenueChart.jsx
-    ProjectsBarChart.jsx
-  data/
-    mockData.js
-  App.js
-  index.css
-  index.js
-```
-
-## 🎨 Tech Stack
-
-- React 18
-- Tailwind CSS
-- Recharts
-- Lucide React (icons)
-- Google Fonts: Syne + Plus Jakarta Sans
-
-## 📦 Build for Production
-
-```bash
-npm run build
-```
+This project is a **modern dashboard UI built using React and Tailwind CSS**.
 
 ---
 
-Made with ❤️ for Legitsoft · legitsoft.in
+## 📌 Features
+
+* Sidebar navigation
+* Dashboard cards (stats)
+* Responsive layout
+* Clean UI design
+
+---
+
+## 🌐 Live Demo
+
+https://react-tailwind-dashboard123.netlify.app/
+
+---
+
+## 📸 Screenshot
+
+<img width="1918" height="920" alt="Dash legitboard" src="https://github.com/user-attachments/assets/038b4969-85f0-4e24-87c2-df3e4f1df934" />
+
+---
+
+## 🛠️ Tech Used
+
+* React.js
+* Tailwind CSS
+
+---
+
+## 🎯 Objective
+
+To demonstrate advanced UI design and dashboard layout skills.
+
+---
+
+## 👨‍💻 Author
+
+**Anjyot Dhamapurkar**
+GitHub: https://github.com/Anjyot
+LinkedIn: https://www.linkedin.com/in/anjyot-dhamapurkar
